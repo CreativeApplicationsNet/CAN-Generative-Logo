@@ -1,0 +1,13 @@
+Autumn 2012
+
+["#4E2E1E", "#EA4F6C", "#F99548", "#FCCA55"], //http://www.colourlovers.com/palette/1483942/The_Autumn_Queen_HPP
+["#6D2243", "#EC5E0C", "#F78F1E", "#85871A"], //http://www.colourlovers.com/palette/1297074/Autumn_Rainbow
+["#A7321C", "#FFDC68", "#928941", "#352504"], //http://www.colourlovers.com/palette/36998/french_roast
+["#821F29", "#F6E03F", "#ADBD06", "#D46600"], //http://www.colourlovers.com/palette/582235/October_Roads
+
+summer 2012
+
+["#00A0B0", "#CC333F", "#EB6841", "#EDC951"], //http://www.colourlovers.com/palette/1473/Ocean_Five
+["#01b0f0", "#97d7f4", "#ff358b", "#ff9dc7"], //http://www.colourlovers.com/palette/9284/Summer_Watermelon s
+["#F1396D", "#F3FFEB", "#ACC95F", "#8F9924"], //http://www.colourlovers.com/palette/588/berry_summer
+["#B31237", "#FF8826", "#FFB914", "#2C9FA3"], //http://www.colourlovers.com/palette/424489/summer_of_85 x
