@@ -1,3 +1,10 @@
+Winter 2012
+
+["#635353", "#A29494", "#C2C5CE", "#FEF7FE"], //http://www.colourlovers.com/palette/2244237/willows_winter
+["#65727A", "#8F9A9C", "#D7DACF", "#E6E8E3"], //http://www.colourlovers.com/palette/2236415/Winter
+["#8BA6AC", "#BDCDD0", "#E5E6C9", "#F8F8EC"], //http://www.colourlovers.com/palette/1890/fall_ingto_winter
+["#ADD8C7", "#E3F6F3", "#F4F7F7", "#FAF0FE"], //http://www.colourlovers.com/palette/605421/Crystal_Ice_Palace
+
 Autumn 2012
 
 ["#4E2E1E", "#EA4F6C", "#F99548", "#FCCA55"], //http://www.colourlovers.com/palette/1483942/The_Autumn_Queen_HPP
