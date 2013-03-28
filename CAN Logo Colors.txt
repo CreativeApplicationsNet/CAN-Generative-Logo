@@ -1,3 +1,11 @@
+Spring 2013
+
+["#5C323E", "#A82743", "#C0D23E", "#E5F04C"], //http://www.colourlovers.com/palette/1015109/All_Eyes_On_You
+["#FF003C", "#FF8A00", "#88C100", "#00C176"], //http://www.colourlovers.com/palette/56122/Sweet_Lolly
+["#234D20", "#77AB59", "#C9DF8A", "#F0F7DA"], //http://www.colourlovers.com/palette/385992/Spring_Wedding
+["#4D1137", "#705065", "#9FB3B2", "#F7F5E0"], //http://www.colourlovers.com/palette/1419827/Drops_of_Spring
+
+
 Winter 2012
 
 ["#635353", "#A29494", "#C2C5CE", "#FEF7FE"], //http://www.colourlovers.com/palette/2244237/willows_winter
