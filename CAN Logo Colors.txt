@@ -1,3 +1,11 @@
+Summer 2013
+
+["#69D2E7", "#A7DBD8", "#E0E4CC", "#FA6900"], //http://www.colourlovers.com/palette/92095/Giant_Goldfish
+["#3FB8AF", "#DAD8A7", "#FF9E9D", "#FF3D7F"], //http://www.colourlovers.com/palette/932683/Compatible
+["#FFE545", "#026475", "#C2A34F", "#FBB829"], //http://www.colourlovers.com/palette/819412/Here_Comes_the_Sun
+["#59A80F", "#C4ED68", "#E2FF9E", "#F0F2DD"], //http://www.colourlovers.com/palette/497335/Limeade_on_Ice
+
+
 Spring 2013
 
 ["#5C323E", "#A82743", "#C0D23E", "#E5F04C"], //http://www.colourlovers.com/palette/1015109/All_Eyes_On_You
