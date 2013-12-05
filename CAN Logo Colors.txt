@@ -1,3 +1,11 @@
+Winter 2014
+
+["#FF471C", "#E4E4DF", "#FF7E70", "#BCB49E"], //http://www.colourlovers.com/palette/1865572/Winter_Splender
+["#E4554F", "#634A4D", "#B2ABA5", "#C1C1C3"], //http://www.colourlovers.com/palette/1082092/Winter_Swing
+["#8BA6AC", "#E5E6C9", "#F8F8EC", "#BDCDD0"], //http://www.colourlovers.com/palette/1890/fall_ingto_winter
+["#ADD8C7", "#E3F6F3", "#F4F7F7", "#FAF0FE"], //http://www.colourlovers.com/palette/605421/Crystal_Ice_Palace
+
+
 Summer 2013
 
 ["#69D2E7", "#A7DBD8", "#E0E4CC", "#FA6900"], //http://www.colourlovers.com/palette/92095/Giant_Goldfish
